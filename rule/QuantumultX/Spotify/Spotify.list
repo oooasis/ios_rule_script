@@ -35,6 +35,5 @@ HOST-SUFFIX,spotilocal.com,Spotify
 HOST-SUFFIX,tospotify.com,Spotify
 HOST-KEYWORD,-spotify-,Spotify
 HOST-KEYWORD,spotify.com,Spotify
-USER-AGENT,Spotify*,Spotify
 IP-CIDR,104.154.127.126/32,Spotify
 IP-CIDR,35.186.224.47/32,Spotify
